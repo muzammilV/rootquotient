@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "connect-history-api-fallback": "^1.6.0",
+    "connect-mongodb-session": "^2.3.3",
+    "cors": "^2.8.5",
+    "cryptr": "^6.0.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.21",
+    "serve-static": "^1.14.1"
+  },
+  "engine": {
+    "node": "12.18.1",
+    "npm": "6.13.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "name": "Project1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Muzammil",
+  "license": "MIT"
+}
